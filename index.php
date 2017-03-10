@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "Welcome to Azure Apps Service on Linux!!!!";
 ?>
